@@ -1,0 +1,112 @@
+FluidR3 GM SoundFont - license and copyright
+Extracted verbatim from Debian's fluid-soundfont 3.1 packages (see SOURCE.md for URLs and SHA-256).
+
+===== COPYING  (fluid-soundfont_3.1.orig.tar.gz : fluid-soundfont-3.1/COPYING) =====
+
+Copyright (c) 2000-2002, 2008 Frank Wen <getfrank@gmail.com>
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+
+===== README  (fluid-soundfont-gm_3.1-6_all.deb : /usr/share/doc/fluid-soundfont-gm/README; identical in the orig tarball) =====
+
+Fluid (R3) SoundFont
+
+Copyright (c) 2000-2002, 2008 Frank Wen <getfrank@gmail.com>
+
+I hereby release Fluid under the MIT license, as described in COPYING.
+
+
+Thanks to Toby Smithe for helping to get Fluid included in Ubuntu.
+
+This package, of course, is the original Release 3 of Fluid.  
+
+
+Fluid was constructed in part from samples found in the public domain that I
+edited/cleaned/remixed/programmed and largely from recordings of my own and
+in conjunction with the people below who helped along the way:
+
+Suren M. Seron
+Scott Hanan
+Steve Aupperle
+Chris Gillman
+Alex Taubr
+Chris Prola
+Andrew Klenk
+Winfried Hubbe 
+Dylan
+Tim
+Gort
+Uros Katic 
+Ethan Winer (http://www.ethanwiner.com) 
+
+
+It's obviously been a few years since the project, but its nice to see that
+people are still enjoying my work and getting good use out of it.  As always,
+I'd like to hear some work done with Fluid so email me, or just email me to
+say hello and tell me what is going on in the computer musician world.
+Who knows, maybe I'll kick start this project again? ;)
+
+===== copyright  (fluid-soundfont-gm_3.1-6_all.deb : /usr/share/doc/fluid-soundfont-gm/copyright) =====
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: not existing any more
+        It was downloaded from <http://www.musescore.org/download/fluid-soundfont.tar.gz>
+
+Files: *
+Copyright: 2000-2002, 2008 Frank Wen <getfrank@gmail.com>
+           2008 Toby Smithe
+License: MIT
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+Files: debian/*
+Copyright: 2008 Toby Smithe <tsmithe@ubuntu.com>
+License: GPL-2+
+ The Debian packaging is licensed under the GPL; either version 2
+ of the License, or (at your option) any later version, see
+ `/usr/share/common-licenses/GPL-2'.
+
+===== This SF3 =====
+
+FluidR3_GM.sf3 is the Debian fluid-soundfont-gm 3.1-6 FluidR3_GM.sf2
+(sha256 74594e8f4250680adf590507a306655a299935343583256f3b722c48a1bc1cb0), every preset,
+with its left/right sample links restored and each sample compressed to Ogg Vorbis
+(libvorbis q0.4, the same setting as fluid_r3_trimmed.sf3). Sample rates unchanged.
