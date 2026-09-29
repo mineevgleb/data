@@ -109,4 +109,4 @@ License: GPL-2+
 FluidR3_GM.sf3 is the Debian fluid-soundfont-gm 3.1-6 FluidR3_GM.sf2
 (sha256 74594e8f4250680adf590507a306655a299935343583256f3b722c48a1bc1cb0), every preset,
 with its left/right sample links restored and each sample compressed to Ogg Vorbis
-(libvorbis q0.4, the same setting as fluid_r3_trimmed.sf3). Sample rates unchanged.
+(libvorbis q0.4). Sample rates unchanged.
